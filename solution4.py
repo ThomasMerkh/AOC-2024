@@ -70,4 +70,3 @@ for i in range(n):
         if word_search[i][j] == "A":
             x_mas_count += search_xs(i, j)
 print(x_mas_count)
-# 470 too low
